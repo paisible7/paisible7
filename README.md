@@ -27,15 +27,6 @@ Bienvenue sur mon profil GitHub! Je suis un développeur passionné qui aime exp
 ---
 [![](https://visitcount.itsvg.in/api?id=paisible7&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📈 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=paisible7&show_icons=true&theme=radical)
-![Langues les Plus Utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=paisible7&layout=compact&theme=radical)
-
-## 📊 Graphiques Dynamiques
-![Activité Contributive](https://activity-graph.herokuapp.com/graph?username=paisible7&theme=react-dark&hide_border=true)
-![Résumé des Dépôts](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paisible7&theme=vue)
 
 ## 📫 Comment me Contacter
 - **Email** : paisible7@example.com
