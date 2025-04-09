@@ -1,4 +1,5 @@
-# Bonjour, je suis paisible7! 👋
+# Bonjour, je suis M. Paisible! 👋
+# Développeur Front-End Web & Mobile
 
 Bienvenue sur mon profil GitHub! Je suis un développeur passionné qui aime explorer de nouvelles technologies et créer des projets innovants. Voici un petit aperçu de moi :
 
