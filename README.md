@@ -4,7 +4,8 @@
 Bienvenue sur mon profil GitHub! Je suis un développeur passionné qui aime explorer de nouvelles technologies et créer des projets innovants. Voici un petit aperçu de moi :
 
 ## 💬 Demandez-Moi
-- Développement en Python, JavaScript et Java
+- Développement en Python, JavaScript et Dart
+- Framework Django, VueJs et Flutter
 - Création et déploiement d'applications web
 - Contributions open source
 
