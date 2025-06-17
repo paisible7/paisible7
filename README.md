@@ -31,7 +31,7 @@ Bienvenue sur mon profil GitHub! Je suis un développeur passionné qui aime exp
 
 
 ## 📫 Comment me Contacter
-- **Email** : paisible7@example.com
+- **Email** : m.paisible7@gmail.com
 - **LinkedIn** : [linkedin.com/in/paisible7](https://linkedin.com/in/paisible7)
 - **Twitter** : [twitter.com/paisible7](https://twitter.com/paisible7)
 
